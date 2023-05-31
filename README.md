@@ -7,7 +7,7 @@ yarn install
 node app.js 或者 ts-node app2.ts
 ```
 
-#### node调试工具，可
+#### node调试工具
 
 - node-dev
 - ts-node-dev
