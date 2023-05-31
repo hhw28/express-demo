@@ -2,6 +2,7 @@ lockfileVersion: 5.3
 
 specifiers:
   '@types/express': ^4.17.17
+  '@types/node': ^20.2.5
   cookie-parser: ~1.4.4
   debug: ~2.6.9
   ejs: ~2.6.1
@@ -19,6 +20,7 @@ dependencies:
 
 devDependencies:
   '@types/express': registry.npmmirror.com/@types/express/4.17.17
+  '@types/node': registry.npmmirror.com/@types/node/20.2.5
 
 packages:
 
